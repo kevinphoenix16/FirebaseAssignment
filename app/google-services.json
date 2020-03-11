@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637761929988",
+    "firebase_url": "https://fir-assignment-c24af.firebaseio.com",
+    "project_id": "fir-assignment-c24af",
+    "storage_bucket": "fir-assignment-c24af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637761929988:android:c2dfbe7acc02444b458651",
+        "android_client_info": {
+          "package_name": "com.example.firebaseassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637761929988-10kt9ppc6v70hfm5h4o48spcfh4evio0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlGSnSWKp47fJqDO49R8vdsvAclj6Eb58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637761929988-10kt9ppc6v70hfm5h4o48spcfh4evio0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
